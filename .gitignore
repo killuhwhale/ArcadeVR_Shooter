@@ -1,0 +1,78 @@
+# ===============================
+# Unity generated
+# ===============================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# AssetStore tools cache
+[Aa]ssets/AssetStoreTools*
+
+# ===============================
+# Unity cache / user settings
+# ===============================
+UserSettings/
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDEs
+# ===============================
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.suo
+
+# ===============================
+# Unity packages
+# ===============================
+Packages/packages-lock.json
+
+# ===============================
+# Crash reports
+# ===============================
+sysinfo.txt
+*.stackdump
+
+# ===============================
+# Builds & binaries
+# ===============================
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+
+# ===============================
+# VR / XR specific (safe to ignore)
+# ===============================
+XR/
+OpenXR/
+SteamVR_Input/
+SteamVR_Input/Bindings/
+SteamVR_Input/ActionManifest.json
+
+# ===============================
+# OS / misc
+# ===============================
+*.log
+*.tmp
+*.bak
+
+# ===============================
+# Addressables (optional)
+# Uncomment if generated at build time
+# ===============================
+# Assets/AddressableAssetsData/*/*.bin*
+# Assets/AddressableAssetsData/*/*.json*
